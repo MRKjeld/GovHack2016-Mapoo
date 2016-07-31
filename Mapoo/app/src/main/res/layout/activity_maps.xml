@@ -1,0 +1,83 @@
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        tools:context="com.loocrew.mapoo.MapsActivity"
+        tools:ignore="MergeRootFrame" >
+
+        <RelativeLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <ImageView android:id="@+id/toiletext"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentTop="true"
+                android:layout_height="100dp"
+                android:layout_width="120dp"
+                android:src="@drawable/toilet"
+                android:clickable="true"
+                android:onClick="clearText"
+                />
+
+            <TextView android:id="@+id/text"
+                android:layout_centerHorizontal="true"
+                android:textAlignment="center"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="10pt"
+                android:textColor="#FF012345"
+                android:textStyle="bold"
+                android:text="Please use Mapoo"
+                />
+            <fragment
+                android:layout_centerInParent="true"
+
+                android:layout_width="340dp"
+                android:layout_height="420dp"
+                tools:context=".MapsActivity"
+                android:name="com.google.android.gms.maps.MapFragment"
+                android:id="@+id/map" />
+
+            <Button android:id="@+id/btnPoo"
+                android:layout_below="@id/map"
+                android:layout_centerHorizontal="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Found Bathroom"
+                android:textSize="18pt"
+                android:clickable="true"
+                android:onClick="ratePoo"
+
+                />
+
+            <ImageButton android:id="@+id/btnNay"
+                android:layout_above="@+id/btnPoo"
+                android:layout_alignLeft="@+id/btnPoo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/frownie"
+                android:clickable="true"
+                android:visibility="invisible"
+                android:onClick="sendRating"
+                />
+
+            <ImageButton android:id="@+id/btnYay"
+                android:layout_above="@+id/btnPoo"
+                android:layout_alignRight="@id/btnPoo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/smilie"
+                android:clickable="true"
+                android:visibility="invisible"
+                android:onClick="sendRating"
+                />
+
+
+
+        </RelativeLayout>
+    </FrameLayout>

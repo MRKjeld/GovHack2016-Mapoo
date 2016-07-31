@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="428c9bac95b2f72921224e289553a04bea61cda5">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-9.2.1_b30a10c977e6088357a8c1aef66fcec7e4764074.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="05a2710d284c03087013a667a324c9e2aba5bc91">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-9.2.1_f3936242836b2ddebfeac3641f566f3fca3f510c.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ee409046028e5657a2a69edaa2eba00d6511a74c">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.2.1_ba3393669cc1472adadf3145f68cbfbacc23c6a6.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f06a0705d7b8b9d18b00d056fe0e07bec75514e6">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.2.1_89e5d084539dfd8268d0d0b960717205711bec81.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.1_fbf7029675e7b8a33d437aa1cf482dcd4fae717f.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="77e2e4803396fa79009ace04d9be84184aafcc31">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-9.2.1_c7959d1116e56d73eab521a434fa13213ddda3f3.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7832ee7a0174e11a827e1fff6ef9037cd763bf86">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_f9410884e395e737f680b4a0c8ca886b93c1c0d3.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_8ea6cabd85ba1b36512bb5a8332ad762a5baa1d8.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.2.1_caacf31a3076408f265e9efd5d4691f1afaf4550.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2506c5893e125e2f9cfc522378e893620c21b109">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.2.1_c1d82610949a53f0d19678e806b67a6c44ebaacf.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.2.1_daca36896b477f6d15f531a69498d49d9ac9e4db.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="152cba5ca28fd4a5191a8577a0fa96d61122041e">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-9.2.1_1d2b9f6162a6d4e908efabce97fb0318dc6f546f.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="89ab748a6c0ab6ac1d3671f2356d6181e8108bc5">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-9.2.1_c5e19d05b44b576592cf31560455b0789f3faea9.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e1bec33f1ec5367e25676638b430b9d585f3dbec">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.2.1_aef51390d7acf8c94ee7636125324e38b45352fd.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="35a01d7cb4ff6b5976777bf5827fd8f206fb8757">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.2.1_4bae7c4f8d5a651176d5e0f72a7f14ab42baa073.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_56d54c33b38bad424ec474d3e77d42555f683867.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0765979e802b1669c90dc36076559461d5eb6ad1">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-9.2.1_5936cd5b655f0bb2a7c763e6dbbda5ac421a603b.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-23.0.0_ffd53b353ed7bff24ce2be2ad33e1114f1f148c6.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="48917c60ea81213ea39cbd7123996a5401106dc3">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.2.1_7815e89501d36401463540aace016bd2561003c3.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7bb417e9ac8645285342935679e75d371b58b62b">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-9.2.1_995d995f0fb6469cd6439ed250d969e2d0df4281.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.2.1_2f207a1372716a62ff4317daa0cb92fe6bac318b.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d064f813cd835f17853e39221b247cf6a997a2db">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-9.2.1_dfe153731682159b3d97a02abe883e3d4bf557ee.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e719de687ac45141de3dd613907860a495580af0">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.2.1_4de991a106125880b7c0d908d584f945a44905c5.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d4dfa7125413f6042ffd5882aea31ce6cd782af5">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\instant-run_86f96e0670122cee9a06ee555c637a2d881e2d40.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b24c1a80d8ccaecee7b8b80209b4e273dc22b14d">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-9.2.1_053e9e348ab30e17058caf5c5003aa468be7b1b0.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="def5530cb13311617fc8f962e2a90225bb6904e2">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-9.2.1_02297ed78371b6eb3c10e8878ff9cac6dbdc0c92.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="310ef01419435979cc82847cf085799a8d00e7e9">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.2.1_afbe102ec368a9d38bf364866da39813cd5e20ab.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="dd1907a2e855eeb2be8aa3486f3d4d4f1c8b22af">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-9.2.1_6cd6eea1567d0aa2cb24b6ad7afcf6e7ab5a87a6.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.1_2e2a306049a545ad095ea73da10d9ff5e3111665.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="bbd51be332bace144b3d16501ec0af379c3c8750">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.2.1_a590f93587c8220fc43c37b8323838fdd3c1acbc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alleras\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.1.1\3af19f153122737b372622fa6c81dd11a1c6b999\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_6822f90e7d2eef7ed5ae01e2f8fdb44ca89dc1cd.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-contextmanager\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ccc963cafe59ce185c49f47baff7eedcb8589bdf">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-contextmanager-9.2.1_84aa7060139b6b0aa986ba3016e795f2049c7754.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="357a8702c49044417d4856861c8f435e7c74ef09">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-9.2.1_cfc643b8c36463853a4fa1cac0f422e0b3dbfe38.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ee19e33a798d11a5cf309a40155b8223fadcdeea">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.2.1_d2dad543a6c3ee8b34dac740d8fa61519e14d101.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4b515e6e269bfe848f5b43ac09bce54d6617d4fd">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-9.2.1_e6e7ca824398b1d81bbbade982d73312227b4455.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.2.1_e0ede710dd9b2ae8848a9645f7d40a0ffba4f329.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a65d98c9409f271d3209f4cc1f7d8e0391665fa5">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-9.2.1_c72f14de37333392efab667b18d1bf4489db2db3.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="36e2b438f9b0d68fb2482c8f389e249e32840cff">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.2.1_bd03044c4cfc1c03a1278de5c3bbce1ea38e1fb2.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9f2282b9fc24f24c69665032dede1bc7201cf006">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-framework-9.2.1_aa6a87fd806cffee4893eb08981d984f6a17018d.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ac78f93fc89c497a65f9d9a352cd405996d2f65a">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.2.1_6c7fa4be5ebab9a3ed3dc015682ad6b2cb7d9edf.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4c2b01baa64ba25f8dbdf7f7f828bc5664dab55e">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-9.2.1_9118834801e09c20e451963d46f0c7aa6f162ed4.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_2bfb3443ba84d8110f51cb9aa345c5363a20163c.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3b0ff905873c91ab64addba30cc1e77bed34c4d">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-9.2.1_4f70adde5edeef41065e94a5dede5e08c84e1871.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="05d2e01f33fb2097b51fce3f938dc37a75fe2d6b">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.2.1_119ce67d93ffba62aa5f59e1e5d459f7305a1913.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="edf9a22ebf25281619265079aec8f5d433da1a5c">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-9.2.1_d78f5408572ab2eb55730f2bf1fdd2b974894da3.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3a42c5696fa39930d39770f7e5552a9c965fbe09">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.2.1_e950bc8c5afb61e46a7dd9d33c43d0eb3d7368d3.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0979debb5b4d955ddc0e80bb192f4f00c2f91750">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-9.2.1_ec847f07cc64675778e40d70a820b6ab11f76d9e.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.1_7eaddb09ff025b4b6c17ea94057390d71647622b.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d2f508d1a9fa0fbe1653595e484800c08afb42c">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.2.1_7b1d73c25d81ad91e95f46d4fe307a6bc88e47f0.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="07c569a77f437c5c71eac8b1b636a50bebb69a93">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-9.2.1_f500e90d8c7dc6710af84ea0e2b3a45adc551857.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.2.1_b9031e1b0d7f8fa09017310885a17dd3a1d2da88.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="081ced8ab77e606b6743c27cfe93dc450447b046">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-9.2.1_ad151b33f465b9ad5e64b9079bc9be79d4efc5f3.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.2.1_d6e29c530168a1474c0aef4b39982d2ef69113ab.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6c09228ff931eb30b68dd27fe34ed90d978b6892">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-9.2.1_83984b404d38f99691e56b2c69b6dfd9d555af9e.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="90eeba67a669f8fb24db0f821ef81703fe7a02bc">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-9.2.1_4b81874a55ae261f60b30afcaecdea3a6ebba492.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1141496362c8876f0da4b645fbaf22c0a3618372">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-9.2.1_e1bc8b211afc9e0a7b6f52fa1483c3ea04b4a39d.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.2.1_909886cceda1481644f3e59134e50bac6cf5ee68.jar" />
+    </item>
+    <item
+        jar="D:\Software\Mapoo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8aada8a0e9e9b3ecdda5e80f17c6a51a468e302a">
+        <dex dex="D:\Software\Mapoo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-9.2.1_28d8dadaf95042cb195540c790bd5671223cf16a.jar" />
+    </item>
+
+</items>
