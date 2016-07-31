@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 1052.3622 744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="dataflow.svg"
+   inkscape:export-filename="C:\Users\carla\Documents\govhack\dataflow.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="445.65005"
+     inkscape:cy="360.6064"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.26772)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4191"
+       width="1046.5181"
+       height="741.04791"
+       x="4.2426405"
+       y="311.3143" />
+    <g
+       id="g4144"
+       transform="translate(-154.14928,55.84062)">
+      <ellipse
+         ry="14.56066"
+         rx="39.035534"
+         cy="661.86218"
+         cx="462.5"
+         id="path3336"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path3338"
+         d="m 423.20341,732.04283 c 4.65431,22.33296 71.74337,21.716 78.48884,0"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path3340"
+         d="m 423.20341,662.39281 0,69.65002"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 501.55696,662.39281 0,69.65002"
+         id="path3342"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4150"
+       width="352"
+       height="223"
+       x="102.85072"
+       y="603.20282" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4152"
+       width="162"
+       height="145"
+       x="245.85072"
+       y="381.20282" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4154"
+       width="89"
+       height="103"
+       x="538.85071"
+       y="746.20282" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 627.85072,766.20282 20,0 0,103 -89,0 0,-19.5 -0.5,0"
+       id="path4156"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4158"
+       width="156.30862"
+       height="41.012207"
+       x="272.19803"
+       y="632.34076" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 347.89653,753.96314 c 82.71427,2.45187 120.64318,32.30485 181.01935,32.52691"
+       id="path4160"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 507.35952,778.54766 c 8.71229,1.22344 11.46013,5.23615 24.22056,9.0245 -5.50161,2.2092 -13.66064,3.23886 -22.37741,4.40685 1.25188,-3.99139 1.5248,-8.25364 0.75673,-12.33147"
+       id="path4162"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 556.19589,526.09478 c -82.71427,2.45187 -20.64318,116.30485 -132.01935,114.52691"
+       id="path4160-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 445.7329,632.6793 c -8.71229,1.22344 -11.46013,5.23615 -24.22056,9.0245 5.50161,2.2092 13.66064,3.23886 22.37741,4.40685 -1.25188,-3.99139 -1.5248,-8.25364 -0.75673,-12.33147"
+       id="path4162-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 324.75134,515.84856 c 3.45187,46.71427 20.30485,56.64318 20.52691,117.01935"
+       id="path4160-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 337.15363,616.28469 c 1.22344,8.7123 5.23615,11.46014 9.0245,24.22056 2.2092,-5.50161 3.23885,-13.66063 4.40685,-22.37741 -3.9914,1.25188 -8.25365,1.5248 -12.33147,0.75673"
+       id="path4162-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="260.85071"
+       y="417.20282"
+       id="text4200"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4202"
+         x="260.85071"
+         y="417.20282"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'">App:mapoo</tspan><tspan
+         sodipodi:role="line"
+         x="260.85071"
+         y="445.32782"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
+         id="tspan4204">* Find</tspan><tspan
+         sodipodi:role="line"
+         x="260.85071"
+         y="473.45282"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
+         id="tspan4206">* Rate</tspan><tspan
+         sodipodi:role="line"
+         x="260.85071"
+         y="501.57782"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
+         id="tspan4208">* Request</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="116.85072"
+       y="633.20282"
+       id="text4210"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4212"
+         x="116.85072"
+         y="633.20282"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'">mapoo</tspan><tspan
+         sodipodi:role="line"
+         x="116.85072"
+         y="661.32782"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
+         id="tspan4214">server</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="283.85071"
+       y="658.20282"
+       id="text4216"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4218"
+         x="283.85071"
+         y="658.20282"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'">Sanitise data</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4240"
+       d="m 304.61961,666.20211 c -1.19198,13.75551 3.53228,21.40647 4.42641,33.82697"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 302.03029,695.64387 c 1.22344,8.7123 5.23615,11.46014 9.0245,24.22056 2.2092,-5.50161 3.23885,-13.66063 4.40685,-22.37741 -3.9914,1.25188 -8.25365,1.5248 -12.33147,0.75673"
+       id="path4162-4-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <rect
+       y="435.20282"
+       x="555.85071"
+       height="145"
+       width="162"
+       id="rect4257"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4259"
+       y="471.20282"
+       x="570.85071"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4267"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
+         y="471.20282"
+         x="570.85071"
+         sodipodi:role="line">Councils,</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
+         y="499.32782"
+         x="570.85071"
+         sodipodi:role="line"
+         id="tspan4278">DoC.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="116.85072"
+       y="741.20282"
+       id="text4280"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4282"
+         x="116.85072"
+         y="741.20282"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'">Data tables:</tspan><tspan
+         sodipodi:role="line"
+         x="116.85072"
+         y="763.07782"
+         id="tspan4286"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'">National loos</tspan><tspan
+         sodipodi:role="line"
+         x="116.85072"
+         y="784.95282"
+         id="tspan4290"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'">Feedback</tspan><tspan
+         sodipodi:role="line"
+         x="116.85072"
+         y="806.82782"
+         id="tspan4292"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'">Requested loos.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="551.85071"
+       y="778.20282"
+       id="text4294"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4296"
+         x="551.85071"
+         y="778.20282"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'">KML</tspan><tspan
+         sodipodi:role="line"
+         x="551.85071"
+         y="803.20282"
+         id="tspan4298"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'">files</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 594.83265,727.01253 c 3.45186,-46.71427 37.30484,-82.64318 37.5269,-143.01935"
+       id="path4160-6-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 624.23493,600.5764 c 1.22344,-8.7123 5.23615,-11.46014 9.0245,-24.22056 2.2092,5.50161 3.23885,13.66063 4.40685,22.37741 -3.9914,-1.25188 -8.25365,-1.5248 -12.33147,-0.75673"
+       id="path4162-4-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 524.85072,741.20282 0,-13 153,0 0,11"
+       id="path4320"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path4322"
+       d="m 647.85072,786.20282 20,0 0,103 -89,0 0,-19.5 -0.5,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4324"
+       y="736.39166"
+       x="712.57861"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
+         y="736.39166"
+         x="712.57861"
+         sodipodi:role="line"
+         id="tspan4345">(National loos can be imported</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
+         y="758.26666"
+         x="712.57861"
+         sodipodi:role="line"
+         id="tspan4353">into OpenStreetMap.</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
+         y="780.14166"
+         x="712.57861"
+         sodipodi:role="line"
+         id="tspan4392">All data can be re-used by</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
+         y="802.01666"
+         x="712.57861"
+         sodipodi:role="line"
+         id="tspan4394">groups including:</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
+         y="823.89166"
+         x="712.57861"
+         sodipodi:role="line"
+         id="tspan4412">* NGOs</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
+         y="845.76666"
+         x="712.57861"
+         sodipodi:role="line"
+         id="tspan4398">* plunket and parents groups</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
+         y="867.64166"
+         x="712.57861"
+         sodipodi:role="line"
+         id="tspan4400">* accessibility advocacy</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
+         y="889.51666"
+         x="712.57861"
+         sodipodi:role="line"
+         id="tspan4406">* future govhack</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
+         y="911.39166"
+         x="712.57861"
+         sodipodi:role="line"
+         id="tspan4410">* tourism operators</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4324-6"
+       y="631.1557"
+       x="641.22461"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
+         y="631.1557"
+         x="641.22461"
+         sodipodi:role="line"
+         id="tspan4353-6">Councils and other</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
+         y="653.0307"
+         x="641.22461"
+         sodipodi:role="line"
+         id="tspan4384">orgs can import</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
+         y="674.9057"
+         x="641.22461"
+         sodipodi:role="line"
+         id="tspan4388">feedback and requests.</tspan></text>
+  </g>
+</svg>
